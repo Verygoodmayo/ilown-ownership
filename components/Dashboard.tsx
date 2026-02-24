@@ -36,7 +36,7 @@ const Dashboard: React.FC = () => {
           <div className="flex justify-between items-start">
             <div>
               <p className="text-blue-200 text-xs font-bold uppercase tracking-[0.2em]">Equity Portfolio</p>
-              <h2 className="text-4xl font-black mt-2 tracking-tighter">$1,245.50</h2>
+              <h2 className="text-5xl font-black mt-2 tracking-tighter">$1,245.50</h2>
             </div>
             <div className="bg-white/10 backdrop-blur-md px-3 py-1.5 rounded-2xl flex items-center gap-1.5 border border-white/10">
               <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></div>
