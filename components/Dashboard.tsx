@@ -33,7 +33,7 @@ const Dashboard: React.FC = () => {
         <div className="absolute bottom-0 left-0 w-48 h-48 bg-cyan-400/10 rounded-full -ml-24 -mb-24 blur-[60px]"></div>
         
         <div className="relative z-10">
-          <div className="flex justify-between items-start">
+          <div className="flex flex-col gap-4 justify-between items-start">
             <div>
               <p className="text-blue-200 text-xs font-bold uppercase tracking-[0.2em]">Equity Portfolio</p>
               <h2 className="text-4xl font-black mt-2 tracking-tighter">$1,245.50</h2>
